@@ -414,7 +414,7 @@ def main():
     api_key = os.getenv("SHODAN_API_KEY")
     if not api_key:
         print(f"{Fore.RED}[!] CRITICAL: SHODAN_API_KEY not found in .env file!")
-        print(f"{Fore.YELLOW}[*] Create a .env file with: SHODAN_API_KEY=EfoKLcb2zHhNjyxmsIeU95hRHOcLqxb8")
+        print(f"{Fore.YELLOW}[*] Create a .env file with: SHODAN_API_KEY=YOUR_API_KEY_HERE")
         return
 
     # Get target

@@ -2,3 +2,6 @@ shodan
 prettytable
 folium
 pandas
+tqdm
+python-dotenv
+colorama

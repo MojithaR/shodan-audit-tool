@@ -1,0 +1,395 @@
+{
+  "metadata": {
+    "generated": "2026-08-08T14:56:54.423866",
+    "total_hosts": 8,
+    "total_vulns": 0,
+    "developer": "MojithaR",
+    "github": "https://github.com/MojithaR/shodan-audit-tool"
+  },
+  "hosts": [
+    {
+      "ip": "45.33.32.156",
+      "country": "United States",
+      "city": "Fremont",
+      "latitude": 37.54827,
+      "longitude": -121.98857,
+      "org": "Linode",
+      "os": null,
+      "ports": [
+        80,
+        31337,
+        123,
+        22
+      ],
+      "high_risk_ports": [
+        80,
+        22
+      ],
+      "vulnerabilities": [],
+      "services": [
+        {
+          "port": 22,
+          "product": "OpenSSH",
+          "version": "6.6.1p1 Ubuntu 2ubuntu2.13",
+          "banner": "SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13\nKey type: ssh-rsa\nKey: AAAAB3NzaC1yc2EAAAADAQABAAABAQC6afooTZ9mVUGFNEhkMoRR1Btzu64XXwElhCsHw/zVlIx/\nHXylNbb"
+        },
+        {
+          "port": 80,
+          "product": "Apache httpd",
+          "version": "2.4.7",
+          "banner": "HTTP/1.1 200 OK\r\nDate: Mon, 03 Aug 2026 16:31:21 GMT\r\nServer: Apache/2.4.7 (Ubuntu)\r\nAccept-Ranges: bytes\r\nVary: Accept-Encoding\r\nTransfer-Encoding: c"
+        },
+        {
+          "port": 123,
+          "product": "ntpd",
+          "version": "3",
+          "banner": "NTP\nprotocolversion: 3\nstratum: 3\nleap: 0\nprecision: -23\nrootdelay: 0.146697998047\nrootdisp: 0.0904541015625\nrefid: 1283253834\nreftime: 3995041651.98\n"
+        },
+        {
+          "port": 31337,
+          "product": "Unknown",
+          "version": "",
+          "banner": ""
+        }
+      ],
+      "last_update": "2026-08-08T00:16:03.606357"
+    },
+    {
+      "ip": "45.33.32.156",
+      "country": "United States",
+      "city": "Fremont",
+      "latitude": 37.54827,
+      "longitude": -121.98857,
+      "org": "Linode",
+      "os": null,
+      "ports": [
+        80,
+        31337,
+        123,
+        22
+      ],
+      "high_risk_ports": [
+        80,
+        22
+      ],
+      "vulnerabilities": [],
+      "services": [
+        {
+          "port": 22,
+          "product": "OpenSSH",
+          "version": "6.6.1p1 Ubuntu 2ubuntu2.13",
+          "banner": "SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13\nKey type: ssh-rsa\nKey: AAAAB3NzaC1yc2EAAAADAQABAAABAQC6afooTZ9mVUGFNEhkMoRR1Btzu64XXwElhCsHw/zVlIx/\nHXylNbb"
+        },
+        {
+          "port": 80,
+          "product": "Apache httpd",
+          "version": "2.4.7",
+          "banner": "HTTP/1.1 200 OK\r\nDate: Mon, 03 Aug 2026 16:31:21 GMT\r\nServer: Apache/2.4.7 (Ubuntu)\r\nAccept-Ranges: bytes\r\nVary: Accept-Encoding\r\nTransfer-Encoding: c"
+        },
+        {
+          "port": 123,
+          "product": "ntpd",
+          "version": "3",
+          "banner": "NTP\nprotocolversion: 3\nstratum: 3\nleap: 0\nprecision: -23\nrootdelay: 0.146697998047\nrootdisp: 0.0904541015625\nrefid: 1283253834\nreftime: 3995041651.98\n"
+        },
+        {
+          "port": 31337,
+          "product": "Unknown",
+          "version": "",
+          "banner": ""
+        }
+      ],
+      "last_update": "2026-08-08T00:16:03.606357"
+    },
+    {
+      "ip": "45.33.32.156",
+      "country": "United States",
+      "city": "Fremont",
+      "latitude": 37.54827,
+      "longitude": -121.98857,
+      "org": "Linode",
+      "os": null,
+      "ports": [
+        80,
+        31337,
+        123,
+        22
+      ],
+      "high_risk_ports": [
+        80,
+        22
+      ],
+      "vulnerabilities": [],
+      "services": [
+        {
+          "port": 22,
+          "product": "OpenSSH",
+          "version": "6.6.1p1 Ubuntu 2ubuntu2.13",
+          "banner": "SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13\nKey type: ssh-rsa\nKey: AAAAB3NzaC1yc2EAAAADAQABAAABAQC6afooTZ9mVUGFNEhkMoRR1Btzu64XXwElhCsHw/zVlIx/\nHXylNbb"
+        },
+        {
+          "port": 80,
+          "product": "Apache httpd",
+          "version": "2.4.7",
+          "banner": "HTTP/1.1 200 OK\r\nDate: Mon, 03 Aug 2026 16:31:21 GMT\r\nServer: Apache/2.4.7 (Ubuntu)\r\nAccept-Ranges: bytes\r\nVary: Accept-Encoding\r\nTransfer-Encoding: c"
+        },
+        {
+          "port": 123,
+          "product": "ntpd",
+          "version": "3",
+          "banner": "NTP\nprotocolversion: 3\nstratum: 3\nleap: 0\nprecision: -23\nrootdelay: 0.146697998047\nrootdisp: 0.0904541015625\nrefid: 1283253834\nreftime: 3995041651.98\n"
+        },
+        {
+          "port": 31337,
+          "product": "Unknown",
+          "version": "",
+          "banner": ""
+        }
+      ],
+      "last_update": "2026-08-08T00:16:03.606357"
+    },
+    {
+      "ip": "45.33.32.156",
+      "country": "United States",
+      "city": "Fremont",
+      "latitude": 37.54827,
+      "longitude": -121.98857,
+      "org": "Linode",
+      "os": null,
+      "ports": [
+        80,
+        31337,
+        123,
+        22
+      ],
+      "high_risk_ports": [
+        80,
+        22
+      ],
+      "vulnerabilities": [],
+      "services": [
+        {
+          "port": 22,
+          "product": "OpenSSH",
+          "version": "6.6.1p1 Ubuntu 2ubuntu2.13",
+          "banner": "SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13\nKey type: ssh-rsa\nKey: AAAAB3NzaC1yc2EAAAADAQABAAABAQC6afooTZ9mVUGFNEhkMoRR1Btzu64XXwElhCsHw/zVlIx/\nHXylNbb"
+        },
+        {
+          "port": 80,
+          "product": "Apache httpd",
+          "version": "2.4.7",
+          "banner": "HTTP/1.1 200 OK\r\nDate: Mon, 03 Aug 2026 16:31:21 GMT\r\nServer: Apache/2.4.7 (Ubuntu)\r\nAccept-Ranges: bytes\r\nVary: Accept-Encoding\r\nTransfer-Encoding: c"
+        },
+        {
+          "port": 123,
+          "product": "ntpd",
+          "version": "3",
+          "banner": "NTP\nprotocolversion: 3\nstratum: 3\nleap: 0\nprecision: -23\nrootdelay: 0.146697998047\nrootdisp: 0.0904541015625\nrefid: 1283253834\nreftime: 3995041651.98\n"
+        },
+        {
+          "port": 31337,
+          "product": "Unknown",
+          "version": "",
+          "banner": ""
+        }
+      ],
+      "last_update": "2026-08-08T00:16:03.606357"
+    },
+    {
+      "ip": "2600:3c01::f03c:91ff:fe18:bb2f",
+      "country": "United States",
+      "city": "Fremont",
+      "latitude": 37.54827,
+      "longitude": -121.98857,
+      "org": "Linode",
+      "os": null,
+      "ports": [
+        80,
+        31337,
+        123,
+        22
+      ],
+      "high_risk_ports": [
+        80,
+        22
+      ],
+      "vulnerabilities": [],
+      "services": [
+        {
+          "port": 22,
+          "product": "OpenSSH",
+          "version": "6.6.1p1 Ubuntu 2ubuntu2.13",
+          "banner": "SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13\nKey type: ssh-rsa\nKey: AAAAB3NzaC1yc2EAAAADAQABAAABAQC6afooTZ9mVUGFNEhkMoRR1Btzu64XXwElhCsHw/zVlIx/\nHXylNbb"
+        },
+        {
+          "port": 80,
+          "product": "Apache httpd",
+          "version": "2.4.7",
+          "banner": "HTTP/1.1 200 OK\r\nDate: Tue, 04 Aug 2026 08:03:33 GMT\r\nServer: Apache/2.4.7 (Ubuntu)\r\nAccept-Ranges: bytes\r\nVary: Accept-Encoding\r\nTransfer-Encoding: c"
+        },
+        {
+          "port": 123,
+          "product": "ntpd",
+          "version": "3",
+          "banner": "NTP\nprotocolversion: 3\nstratum: 3\nleap: 0\nprecision: -23\nrootdelay: 0.146347045898\nrootdisp: 0.117538452148\nrefid: 1283253834\nreftime: 3995143380.6\npo"
+        },
+        {
+          "port": 31337,
+          "product": "Unknown",
+          "version": "",
+          "banner": ""
+        }
+      ],
+      "last_update": "2026-08-08T02:31:57.443410"
+    },
+    {
+      "ip": "2600:3c01::f03c:91ff:fe18:bb2f",
+      "country": "United States",
+      "city": "Fremont",
+      "latitude": 37.54827,
+      "longitude": -121.98857,
+      "org": "Linode",
+      "os": null,
+      "ports": [
+        80,
+        31337,
+        123,
+        22
+      ],
+      "high_risk_ports": [
+        80,
+        22
+      ],
+      "vulnerabilities": [],
+      "services": [
+        {
+          "port": 22,
+          "product": "OpenSSH",
+          "version": "6.6.1p1 Ubuntu 2ubuntu2.13",
+          "banner": "SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13\nKey type: ssh-rsa\nKey: AAAAB3NzaC1yc2EAAAADAQABAAABAQC6afooTZ9mVUGFNEhkMoRR1Btzu64XXwElhCsHw/zVlIx/\nHXylNbb"
+        },
+        {
+          "port": 80,
+          "product": "Apache httpd",
+          "version": "2.4.7",
+          "banner": "HTTP/1.1 200 OK\r\nDate: Tue, 04 Aug 2026 08:03:33 GMT\r\nServer: Apache/2.4.7 (Ubuntu)\r\nAccept-Ranges: bytes\r\nVary: Accept-Encoding\r\nTransfer-Encoding: c"
+        },
+        {
+          "port": 123,
+          "product": "ntpd",
+          "version": "3",
+          "banner": "NTP\nprotocolversion: 3\nstratum: 3\nleap: 0\nprecision: -23\nrootdelay: 0.146347045898\nrootdisp: 0.117538452148\nrefid: 1283253834\nreftime: 3995143380.6\npo"
+        },
+        {
+          "port": 31337,
+          "product": "Unknown",
+          "version": "",
+          "banner": ""
+        }
+      ],
+      "last_update": "2026-08-08T02:31:57.443410"
+    },
+    {
+      "ip": "2600:3c01::f03c:91ff:fe18:bb2f",
+      "country": "United States",
+      "city": "Fremont",
+      "latitude": 37.54827,
+      "longitude": -121.98857,
+      "org": "Linode",
+      "os": null,
+      "ports": [
+        80,
+        31337,
+        123,
+        22
+      ],
+      "high_risk_ports": [
+        80,
+        22
+      ],
+      "vulnerabilities": [],
+      "services": [
+        {
+          "port": 22,
+          "product": "OpenSSH",
+          "version": "6.6.1p1 Ubuntu 2ubuntu2.13",
+          "banner": "SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13\nKey type: ssh-rsa\nKey: AAAAB3NzaC1yc2EAAAADAQABAAABAQC6afooTZ9mVUGFNEhkMoRR1Btzu64XXwElhCsHw/zVlIx/\nHXylNbb"
+        },
+        {
+          "port": 80,
+          "product": "Apache httpd",
+          "version": "2.4.7",
+          "banner": "HTTP/1.1 200 OK\r\nDate: Tue, 04 Aug 2026 08:03:33 GMT\r\nServer: Apache/2.4.7 (Ubuntu)\r\nAccept-Ranges: bytes\r\nVary: Accept-Encoding\r\nTransfer-Encoding: c"
+        },
+        {
+          "port": 123,
+          "product": "ntpd",
+          "version": "3",
+          "banner": "NTP\nprotocolversion: 3\nstratum: 3\nleap: 0\nprecision: -23\nrootdelay: 0.146347045898\nrootdisp: 0.117538452148\nrefid: 1283253834\nreftime: 3995143380.6\npo"
+        },
+        {
+          "port": 31337,
+          "product": "Unknown",
+          "version": "",
+          "banner": ""
+        }
+      ],
+      "last_update": "2026-08-08T02:31:57.443410"
+    },
+    {
+      "ip": "2600:3c01::f03c:91ff:fe18:bb2f",
+      "country": "United States",
+      "city": "Fremont",
+      "latitude": 37.54827,
+      "longitude": -121.98857,
+      "org": "Linode",
+      "os": null,
+      "ports": [
+        80,
+        31337,
+        123,
+        22
+      ],
+      "high_risk_ports": [
+        80,
+        22
+      ],
+      "vulnerabilities": [],
+      "services": [
+        {
+          "port": 22,
+          "product": "OpenSSH",
+          "version": "6.6.1p1 Ubuntu 2ubuntu2.13",
+          "banner": "SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13\nKey type: ssh-rsa\nKey: AAAAB3NzaC1yc2EAAAADAQABAAABAQC6afooTZ9mVUGFNEhkMoRR1Btzu64XXwElhCsHw/zVlIx/\nHXylNbb"
+        },
+        {
+          "port": 80,
+          "product": "Apache httpd",
+          "version": "2.4.7",
+          "banner": "HTTP/1.1 200 OK\r\nDate: Tue, 04 Aug 2026 08:03:33 GMT\r\nServer: Apache/2.4.7 (Ubuntu)\r\nAccept-Ranges: bytes\r\nVary: Accept-Encoding\r\nTransfer-Encoding: c"
+        },
+        {
+          "port": 123,
+          "product": "ntpd",
+          "version": "3",
+          "banner": "NTP\nprotocolversion: 3\nstratum: 3\nleap: 0\nprecision: -23\nrootdelay: 0.146347045898\nrootdisp: 0.117538452148\nrefid: 1283253834\nreftime: 3995143380.6\npo"
+        },
+        {
+          "port": 31337,
+          "product": "Unknown",
+          "version": "",
+          "banner": ""
+        }
+      ],
+      "last_update": "2026-08-08T02:31:57.443410"
+    }
+  ],
+  "summary": {
+    "total_ports": 32,
+    "high_risk_ports": 16,
+    "countries": {
+      "United States": 8
+    },
+    "vulnerabilities": []
+  }
+}
