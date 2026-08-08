@@ -1,0 +1,4 @@
+venv/
+audit_report/
+__pycache__/
+*.pyc
