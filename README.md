@@ -1,30 +1,10 @@
-\# 🔍 Shodan Internet Exposure Audit Tool
+## 👨‍💻 Developer
 
+**MojithaR**
 
+- GitHub: [MojithaR/shodan-audit-tool](https://github.com/MojithaR/shodan-audit-tool)
+- Built with ❤️ for the cybersecurity community
 
-A Python tool for cybersecurity engineers to automatically discover public-facing assets, identify open ports, and correlate CVEs using the Shodan API.
+## 📜 License
 
-
-
-\## Features
-
-\- Domain asset discovery
-
-\- Port \& service fingerprinting
-
-\- CVE correlation
-
-\- Geographic mapping
-
-\- CSV / JSON / HTML report generation
-
-
-
-\## Installation
-
-1\. `pip install -r requirements.txt`
-
-2\. Add your Shodan API key to `audit.py`
-
-3\. Run `python audit.py`
-
+This project is open-source and available for educational and authorized security testing purposes.
